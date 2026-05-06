@@ -24,6 +24,8 @@ My professional portfolio as a Backend Java Developer.
 - 💼 [LinkedIn](https://linkedin.com/in/ahmed-raft-87894b2a9/)
 - 🐙 [GitHub](https://github.com/AHMEDRAFAT6U)
 
+## 📄 Download CV
+[Download my CV](./Ahmed-Raft-Mahmoud-Ghreeb-CV.pdf)
 ---
 
 ⭐ Star this repo if you like it!
